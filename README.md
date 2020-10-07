@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">AZIM0.5</h1>
+<h1 align="center">AZIM0.6</h1>
 <p align="center">
       A new international facebook account cracker tool for termux users
 </p>
