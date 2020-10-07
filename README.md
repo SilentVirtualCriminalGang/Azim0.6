@@ -28,7 +28,7 @@ $ python2 crack.py
 ```
 • TOOL USER : (knock me on facebook)</br>
 • TOOL PASS : (knock me on facebook</br>
-
+ [![Facebook](https://img.shields.io/badge/Facebook-AZIM-blue?style=flat-square&logo=facebook)](https://www.facebook.com/100022097600640)
 <b>Access Token Generator Apk</b><br>
  <a href="https://play.google.com/store/apps/details?id=com.proit.thaison.getaccesstokenfacebook">DOWNLOAD</a>
 
