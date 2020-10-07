@@ -26,7 +26,8 @@ $ git clone https://github.com/Azim-vau/Azim0.6.git
 $ cd Azim0.6
 $ python2 crack.py
 ```
-
+• TOOL USER : (knock me on facebook)</br>
+• TOOL PASS : (knock me on facebook</br>
 
 <b>Access Token Generator Apk</b><br>
  <a href="https://play.google.com/store/apps/details?id=com.proit.thaison.getaccesstokenfacebook">DOWNLOAD</a>
