@@ -1,6 +1,8 @@
-<i><b># Follow Me</b></i> <br>[![Github](https://img.shields.io/badge/Github-AZIM--MAHMUD-dimgray?style=flat-square&logo=github)](https://github.com/Azim-vau)<br> [![Facebook](https://img.shields.io/badge/Facebook-AZIM-blue?style=flat-square&logo=facebook)](https://www.facebook.com/100022097600640)<br> [![Instagram](https://img.shields.io/badge/Instagram-AZIM--MAHMUD-hotpink?style=flat-square&logo=instagram)](https://Instagram.com/azimmahmud143)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-AZIM--MAHMUD-deepgreen?style=flat-square&logo=whatsapp)](https://chat.whatsapp.com/DA8asUGMmRG42yKXrCsVb7)
-
-
+<i><b># Follow Me</b></i> <br>
+[![Github](https://img.shields.io/badge/Github-SilentVirtualCriminalGang-dimgray?style=flat-square&logo=github)](https://github.com/SilentVirtualCriminalGang)<br>
+[![Facebook](https://img.shields.io/badge/Facebook-WHO.AM.I.X0-blue?style=flat-square&logo=facebook)](https://www.facebook.com/WHO.AM.I.X0)<br>
+[![Instagram](https://img.shields.io/badge/Instagram-who_am_i_x00-hotpink?style=flat-square&logo=instagram)](https://instagram.com/who_am_i_x00)<br>
+[![Whatsapp](https://img.shields.io/badge/Whatsapp-SilentVirtualCriminalGang-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/8801873561165)
 
 <h1 align="center">AZIM0.6</h1>
 <p align="center">
